@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="4.1">
+    <config>
+          <recursos>$D:\ciidep\juegos\edilim55win32\edilim55\</recursos>
+        <idioma>0</idioma>
+        <licencia></licencia>
+          <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+          <cortexto>000000</cortexto>
+          <titulo>Medición del tiempo.</titulo>
+          <subtitulo>Péndulo matemático</subtitulo>
+          <autor>Jorge Gustavo Lamberti</autor>
+          <iden>Ingeniero en Sistemas Informáticos.</iden>
+          <informe>0</informe>
+          <botonson>0</botonson>
+          <maximizar>0</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="\" modo="1" >CORRECTO</correcto>
+        <incorrecto son="\" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>10</tipo>
+              <cabeceira>Contesta las siguientes preguntas:</cabeceira>
+              <pregunta res="Péndulo">¿Cómo se llama al cuerpo sólido que está en el aire y que además oscila hacia los dos lados?</pregunta>
+              <pregunta res="Es un movimiento de ir y volver.">¿Qué es oscilación? a) Es un movimiento de ir y volver.  b) Es un movimiento hacia la derecha. c) Es un movimiento hacia la izquierda.</pregunta>
+              <pregunta res="Equilibrio">Cuando el hilo del péndulo está en la posición vertical, ¿Cómo se llama? a) Ángulo máximo. b) Equilibrio.</pregunta>
+              <pregunta res="Masa">Conseguimos que el péndulo oscile si separamos la .................... de su posición de equilibrio un ángulo A y la soltamo.</pregunta>
+        </paxina>
+    </libro>
+</lim>
